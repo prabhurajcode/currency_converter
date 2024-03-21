@@ -1,0 +1,52 @@
+body {
+    background-color: #f9c784 !important; /* Adjust the color as needed */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.card {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #3d5a80 !important;
+    color: white;
+}
+
+.card-body{
+    background-color: #98c1d9 !important;
+}
+
+input[type="number"] {
+    width: 50%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+#btn {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.card-footer {
+    background-color: #e0fbfc !important;
+    border-top: 1px solid #ccc;
+}
+
+.currency {
+    width: 100px !important; 
+    margin: 0 auto !important;
+
+}
